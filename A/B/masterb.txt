@@ -1,2 +1,1 @@
-badFunction
-also 2badFunction
+function - *
